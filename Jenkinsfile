@@ -1,6 +1,6 @@
 pipeline {
     environment {
-        registry = 'sreeharshav/devopsb17'
+        registry = 'suryaprakashcloud118/devops116'
         registryCredential = 'dockerhub_id'
         dockerSwarmManager = '10.40.1.26:2375'
         dockerhost = '10.40.1.26'
